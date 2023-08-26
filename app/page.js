@@ -3,6 +3,6 @@ import styles from './page.module.css'
 
 export default function Home() {
   return (
-    <h1>First Page of Next JS<h1>
+    <h1> First Page of Next JS </h1>
   )
 }
